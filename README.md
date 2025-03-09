@@ -1,2 +1,2 @@
-# StorageSpaces_-SurviveWindowsReloadWithoutLosingData
-Code Snippets from "Storage Spaces: Survive a Windows Reload Without Losing Data," https://youtu.be/HKwZ5xOelIY
+# DariensTips
+Repository of code snippets from my YouTube channel, https://www.youtube.com/@darienstips9409
